@@ -64,7 +64,7 @@ class PanelNau extends JPanel implements Runnable, KeyListener {
 
 
 	public PanelNau(int altura, int amplada) {
-		setBackground(Color.WHITE);
+		setBackground(Color.GRAY);
 		this.altura = altura;
 		this.anchura = amplada;
 
